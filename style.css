@@ -1,0 +1,124 @@
+*{
+    box-sizing: border-box
+}
+@import url('https://fonts.googleapis.com/css2?family=Alkalami&display=swap');
+.header-text{
+    display: flex;
+    position:relative;
+    justify-content:space-evenly;
+    /* justify-items: end; */
+    /* flex-direction: row; */
+    /* align-items:flex-end; */
+    /* padding: 0x; */
+    /* gap: 30px; */
+    /* flex-wrap:wrap; */
+    margin: 10px auto;
+
+}
+.zflip-text{
+    position: absolute;
+    width: 492px;
+    height: 105px;
+    top: 430px;
+    left: 200px;
+    font-family: 'Alkalami', serif;
+    font-weight: 600;
+    font-size: 70px;
+    line-height: 105px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+}
+
+.zflip-main{
+    position: absolute;
+    width: 1920px;
+    height: 1080px;
+    right: 320px;
+}
+.samsung-logo{
+    width: 140px;
+    height: 20.83px;
+    position: relative;
+}
+.zflip-launch{
+    position: absolute;
+    width: 864px;
+    height: 486px;
+    left: 0px;
+    top: 1150px;
+}
+.fold4-text{
+    color: #ffffff;
+    position: relative;
+    width: 298px;
+    height: 72px;
+    left: 42px;
+    bottom: 450px;
+    font-family: 'Alkalami', serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 36px;
+    display: flex;
+    align-items: center;
+}
+.samsunghighlights-text{
+    color: #ffffff;
+    position: relative;
+    text-align: end;
+    width: 298px;
+    height: 72px;
+    left: 600px;
+    bottom: 450px;
+    font-family: 'Alkalami', serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 36px;
+    display: flex;
+    align-items: center;
+}
+.zflip-highlights{
+    position: relative;
+    width: 864px;
+    height: 486px;
+    left: 856px;
+    top: 1080px;
+}
+.text{
+    position: absolute;
+    width: 307px;
+    height: 48px;
+    left: 30px;
+    top: 1656px;
+    color: black;
+    font-family: 'Alkalami', serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 48px;
+    display: flex;
+    align-items: center;
+}
+.zurag1{
+    position: absolute;
+    width: 480px;
+    height: 480px;
+    left: -27px;
+    top: 1700px;
+}
+.zurag2{
+    position: absolute;
+    width: 480px;
+    height: 480px;
+    left: 408px;
+    top: 1700px;
+}
+.zurag3{
+    position: absolute;
+    width: 480px;
+    height: 480px;
+    left: 600px;
+    top: 1700px;
+}
